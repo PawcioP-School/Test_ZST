@@ -5,5 +5,5 @@
     echo = `$USER , $XD`;
     echo = `$USER + Bidon`;
     echo = "XD";
-    
+    echo = "TEST"
 ?>
