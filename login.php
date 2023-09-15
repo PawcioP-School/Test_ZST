@@ -6,4 +6,6 @@
     echo = `$USER + Bidon`;
     echo = "XD";
     echo = "TEST"
+    
+    echo = "test2";
 ?>
